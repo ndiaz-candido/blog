@@ -18,7 +18,7 @@ export default function Home() {
               <div class="text-gray-500">Frontend Developer</div>
               <ul className="w-24 text-gray-600 pt-5">
                 <li className="pb-3">
-                  <a className="flex hover:text-gray-900" href="https://github.com/ndiaz-candido" target="_blank">
+                  <a className="flex hover:text-gray-900" href="https://github.com/nestor-diaz" target="_blank">
                     <GithubIcon />
                     <span className="ml-2">Github</span>
                   </a>
