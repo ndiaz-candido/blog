@@ -4,12 +4,12 @@ import { TwitterIcon } from '../components/icons/TwitterIcon';
 
 export default function Home() {
   return (
-    <div className="font-sans antialiased">
+    <div className="max-w-screen-xl mx-auto font-sans antialiased">
       <Head>
         <title>Néstor Diaz</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="max-w-5xl mx-auto h-56 p-4">
+      <main className="h-56 p-4">
         <figure className="flex flex-col items-center md:flex-row">
           <img className="w-32 h-32 rounded-full" src="/coldhams.jpeg" alt="" width="72" height="72" />
           <div className="text-center md:pl-8 md:text-left">
